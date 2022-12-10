@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DieRollerApp_Pruthvi</string>
+    <string name="action_settings">Settings</string>
+    <string name="newroll" translatable="false">+</string>
+    <string name="clear">Clear</string>
+    <string name="marker">Add marker</string>
+</resources>
